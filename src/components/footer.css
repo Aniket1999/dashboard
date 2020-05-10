@@ -1,0 +1,14 @@
+.footer{
+    padding-top: 15px; 
+    display: flex;
+}
+
+.footer-logo img{
+    width: 36%;
+    height: auto;
+}
+
+.ul-footer{
+    list-style: none;
+    display: flex;
+}

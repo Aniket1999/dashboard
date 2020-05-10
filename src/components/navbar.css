@@ -1,0 +1,14 @@
+.navbar{
+    position: relative;
+    background-color: #ffc107;
+    height: 4rem;
+}
+
+img{
+    width: 6em;
+    height: auto;
+}
+
+a:link { 
+    text-decoration: none;
+}
